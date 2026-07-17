@@ -21,5 +21,5 @@ coming soon !!
 ## contact me 📱
 
 <div align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/lance.rlv) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lancerelova26@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lancerelova26@gmail.com)
 </div>

@@ -24,5 +24,7 @@ coming soon !!
 ## contact me 📱
 
 <div align="center">
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lancerelova26@gmail.com)
+  <a href="mailto:lancerelova26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
